@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "证件照.JPG.jpg"
+  avatar           : "photomyself.jpg"
   name             : "Junbo Ning (宁俊博）"
   pronouns         : “he/him"
   bio              : "Undergraduate medical student at Guangdong Pharmaceutical University"
