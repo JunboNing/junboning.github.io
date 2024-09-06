@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Junbo Ning"
-title_separator          : "-"
+title_separator          : #"-"
 name                     : &name "Junbo Ning"
-description              : &description "Undergraduate medical student at Guangdong Pharmaceutical University"
+description              : &description "personal description"
 url                      : https://junboning.github.io
 baseurl                  : "JunboNing/junboning.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photomyself.jpg"
+  avatar           : "photomyself.png"
   name             : "Junbo Ning (宁俊博）"
   pronouns         : “he/him"
   bio              : "Undergraduate medical student at Guangdong Pharmaceutical University"
